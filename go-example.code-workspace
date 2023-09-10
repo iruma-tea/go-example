@@ -10,6 +10,14 @@
 		{
 			"name": "ch01-hello-world",
 			"path": "ch01/hello-world"
+		},
+		{
+			"name": "ch01-04multifile",
+			"path": "ch01/04multifile"
+		},
+		{
+			"name": "ch01-make",
+			"path": "ch01/make"
 		}
 
 	],
