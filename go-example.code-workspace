@@ -1,8 +1,17 @@
 {
 	"folders": [
 		{
-			"path": "."
+			"path": ".",
+		},
+		{
+			"name": "ch01",
+			"path": "ch01/"
+		},
+		{
+			"name": "ch01-hello-world",
+			"path": "ch01/hello-world"
 		}
+
 	],
 	"settings": {
 		"[go]": {
