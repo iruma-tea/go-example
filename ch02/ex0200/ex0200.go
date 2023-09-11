@@ -97,4 +97,93 @@ func main() {
 		fmt.Println("-x/0=", -x/0) // -Inf
 	}
 
+	fmt.Println("===== 2.1.5　文字列とrune =====")
+	{
+		var a, b string
+		a = "イロハ"
+		b = "あいうえお"
+		fmt.Println(a == b)
+		fmt.Println(a != b)
+		fmt.Println(`"あ" < "い:`, "あ" < "い")
+		fmt.Println(`"あ" < "ア:`, "あ" < "ア")
+		fmt.Println("a + b:", a+b)
+	}
+
+	fmt.Println("===== 2.2 変数の宣言 =====")
+	{
+		var x, y int = 10, 20
+		fmt.Println(x, y)
+	}
+
+	{
+		var x, y int
+		fmt.Println(x, y)
+	}
+
+	{
+		var x, y = 10, "hello"
+		fmt.Println(x, y)
+	}
+
+	{
+		var (
+			x    int
+			y        = 20
+			z    int = 30
+			d, e     = 40, "hello"
+			f, g string
+		)
+		fmt.Println(x, y, z, d, e)
+		fmt.Println("f=|", f, "| g=|", g, "|")
+	}
+	{
+		var x = 10
+		fmt.Println(x)
+	}
+	{
+		x := 10
+		fmt.Println(x)
+	}
+
+	{
+		var x = 10
+		// var y int32 = x // エラー
+		var y int = x
+		fmt.Println(y)
+	}
+
+	{
+		x := 10
+		var y = 10
+		var z int64 = 10
+		fmt.Println(x == y)
+		// fmt.Println(x==z) // エラー型が異なる
+		fmt.Println(int64(x) == z)
+	}
+
+	fmt.Println("===== 2.4　型付きの定数と型のない定数 =====")
+	{
+		const x = 10
+		var y int = x
+		var z float64 = x
+		var d byte = x
+		fmt.Println("x, y, z, d:", x, y, z, d)
+
+		const typedX int = 10
+		fmt.Println("typedX:", typedX)
+		fmt.Println(x == typedX)
+
+		// z = typedX // エラー
+		z = float64(typedX)
+		fmt.Println("z:", z)
+	}
+
+	{
+		// 使われない変数
+		x := 10
+		x = 20
+		fmt.Println(x)
+		x = 30
+	}
+
 }
