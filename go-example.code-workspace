@@ -18,8 +18,11 @@
 		{
 			"name": "ch01-make",
 			"path": "ch01/make"
-		}
-
+		},
+		{
+			"name": "ch02-ex0200",
+			"path": "ch02/ex0200"
+		},
 	],
 	"settings": {
 		"[go]": {
