@@ -23,6 +23,30 @@
 			"name": "ch02-ex0200",
 			"path": "ch02/ex0200"
 		},
+		{
+			"name": "ch02-ex0201",
+			"path": "ch02/ex0201"
+		},
+		{
+			"name": "ch02-ex0202",
+			"path": "ch02/ex0202"
+		},
+		{
+			"name": "ch02-ex0203",
+			"path": "ch02/ex0203"
+		},
+		{
+			"name": "ch02-ex0204",
+			"path": "ch02/ex0204"
+		},
+		{
+			"name": "ch02-ex0205",
+			"path": "ch02/ex0205"
+		},
+		{
+			"name": "ch02-ex0206",
+			"path": "ch02/ex0206"
+		},
 	],
 	"settings": {
 		"[go]": {
