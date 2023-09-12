@@ -47,6 +47,38 @@
 			"name": "ch02-ex0206",
 			"path": "ch02/ex0206"
 		},
+		{
+			"name": "ch03-ex0300",
+			"path": "ch03/ex0300"
+		},
+		{
+			"name": "ch03-ex0301",
+			"path": "ch03/ex0301"
+		},
+		{
+			"name": "ch03-ex0302",
+			"path": "ch03/ex0302"
+		},
+		{
+			"name": "ch03-ex0303",
+			"path": "ch03/ex0303"
+		},
+		{
+			"name": "ch03-ex0304",
+			"path": "ch03/ex0304"
+		},
+		{
+			"name": "ch03-ex0305",
+			"path": "ch03/ex0305"
+		},
+		{
+			"name": "ch03-ex0305x",
+			"path": "ch03/ex0305x"
+		},
+		{
+			"name": "ch03-ex0306",
+			"path": "ch03/ex0306"
+		},
 	],
 	"settings": {
 		"[go]": {
