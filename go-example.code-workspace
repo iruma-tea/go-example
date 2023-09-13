@@ -135,6 +135,22 @@
 			"name": "ch03-ex0314x",
 			"path": "ch03/ex0314x"
 		},
+		{
+			"name": "ch03-ex0315",
+			"path": "ch03/ex0315"
+		},
+		{
+			"name": "ch03-ex0316",
+			"path": "ch03/ex0316"
+		},
+		{
+			"name": "ch03-ex0317",
+			"path": "ch03/ex0317"
+		},
+		{
+			"name": "ch03-ex0318",
+			"path": "ch03/ex0318"
+		},
 	],
 	"settings": {
 		"[go]": {
