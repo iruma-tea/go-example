@@ -275,6 +275,10 @@
 			"name": "ch04-ex0427",
 			"path": "ch04/ex0427"
 		},
+		{
+			"name": "ch05-ex0501",
+			"path": "ch05/ex0501"
+		},
 	],
 	"settings": {
 		"[go]": {
