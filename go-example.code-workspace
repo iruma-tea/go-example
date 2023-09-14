@@ -247,6 +247,34 @@
 			"name": "ch04-ex0421",
 			"path": "ch04/ex0421"
 		},
+		{
+			"name": "ch04-ex0422",
+			"path": "ch04/ex0422"
+		},
+		{
+			"name": "ch04-ex0423",
+			"path": "ch04/ex0423"
+		},
+		{
+			"name": "ch04-ex0424",
+			"path": "ch04/ex0424"
+		},
+		{
+			"name": "ch04-ex0424b",
+			"path": "ch04/ex0424b"
+		},
+		{
+			"name": "ch04-ex0425",
+			"path": "ch04/ex0425"
+		},
+		{
+			"name": "ch04-ex0426",
+			"path": "ch04/ex0426"
+		},
+		{
+			"name": "ch04-ex0427",
+			"path": "ch04/ex0427"
+		},
 	],
 	"settings": {
 		"[go]": {
