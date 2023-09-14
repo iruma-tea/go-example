@@ -315,6 +315,30 @@
 			"name": "ch05-ex0509b",
 			"path": "ch05/ex0509b"
 		},
+		{
+			"name": "ch05-ex0510",
+			"path": "ch05/ex0510"
+		},
+		{
+			"name": "ch05-ex0511",
+			"path": "ch05/ex0511"
+		},
+		{
+			"name": "ch05-ex0511j",
+			"path": "ch05/ex0511j"
+		},
+		{
+			"name": "ch05-ex0512",
+			"path": "ch05/ex0512"
+		},
+		{
+			"name": "ch05-ex0513",
+			"path": "ch05/ex0513"
+		},
+		{
+			"name": "ch05-ex0514",
+			"path": "ch05/ex0514"
+		},
 	],
 	"settings": {
 		"[go]": {
