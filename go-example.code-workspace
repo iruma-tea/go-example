@@ -279,6 +279,42 @@
 			"name": "ch05-ex0501",
 			"path": "ch05/ex0501"
 		},
+		{
+			"name": "ch05-ex0502",
+			"path": "ch05/ex0502"
+		},
+		{
+			"name": "ch05-ex0503",
+			"path": "ch05/ex0503"
+		},
+		{
+			"name": "ch05-ex0504",
+			"path": "ch05/ex0504"
+		},
+		{
+			"name": "ch05-ex0505",
+			"path": "ch05/ex0505"
+		},
+		{
+			"name": "ch05-ex0506",
+			"path": "ch05/ex0506"
+		},
+		{
+			"name": "ch05-ex0507",
+			"path": "ch05/ex0507"
+		},
+		{
+			"name": "ch05-ex0508",
+			"path": "ch05/ex0508"
+		},
+		{
+			"name": "ch05-ex0509",
+			"path": "ch05/ex0509"
+		},
+		{
+			"name": "ch05-ex0509b",
+			"path": "ch05/ex0509b"
+		},
 	],
 	"settings": {
 		"[go]": {
@@ -287,6 +323,11 @@
 			"editor.codeActionsOnSave": {
 				"source.organizeImports": true
 			}
+		},
+		"[python]": {
+			"diffEditor.ignoreTrimWhitespace": false,
+			"editor.formatOnType": true,
+			"editor.wordBasedSuggestions": false
 		}
 	}
 }
