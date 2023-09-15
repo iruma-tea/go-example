@@ -387,6 +387,42 @@
 			"name": "ch06-ex0609",
 			"path": "ch06/ex0609"
 		},
+		{
+			"name": "ch07-ex0700",
+			"path": "ch07/ex0700"
+		},
+		{
+			"name": "ch07-ex0701",
+			"path": "ch07/ex0701"
+		},
+		{
+			"name": "ch07-ex0702",
+			"path": "ch07/ex0702"
+		},
+		{
+			"name": "ch07-ex0702x",
+			"path": "ch07/ex0702x"
+		},
+		{
+			"name": "ch07-ex0703",
+			"path": "ch07/ex0703"
+		},
+		{
+			"name": "ch07-ex0703x",
+			"path": "ch07/ex0703x"
+		},
+		{
+			"name": "ch07-ex0704",
+			"path": "ch07/ex0704"
+		},
+		{
+			"name": "ch07-ex0705",
+			"path": "ch07/ex0705"
+		},
+		{
+			"name": "ch07-ex0705x",
+			"path": "ch07/ex0705x"
+		},
 	],
 	"settings": {
 		"[go]": {
