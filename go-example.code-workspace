@@ -347,6 +347,30 @@
 			"name": "ch05-ex0516",
 			"path": "ch05/ex0516"
 		},
+		{
+			"name": "ch06-ex0600",
+			"path": "ch06/ex0600"
+		},
+		{
+			"name": "ch06-ex0601",
+			"path": "ch06/ex0601"
+		},
+		{
+			"name": "ch06-ex0602",
+			"path": "ch06/ex0602"
+		},
+		{
+			"name": "ch06-ex0603",
+			"path": "ch06/ex0603"
+		},
+		{
+			"name": "ch06-ex0604",
+			"path": "ch06/ex0604"
+		},
+		{
+			"name": "ch06-ex0605",
+			"path": "ch06/ex0605"
+		},
 	],
 	"settings": {
 		"[go]": {
@@ -360,6 +384,9 @@
 			"diffEditor.ignoreTrimWhitespace": false,
 			"editor.formatOnType": true,
 			"editor.wordBasedSuggestions": false
+		},
+		"[java]": {
+			"editor.suggest.snippetsPreventQuickSuggestions": false
 		}
 	}
 }
