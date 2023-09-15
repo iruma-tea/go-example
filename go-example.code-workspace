@@ -423,6 +423,14 @@
 			"name": "ch07-ex0705x",
 			"path": "ch07/ex0705x"
 		},
+		{
+			"name": "ch07-ex0706",
+			"path": "ch07/ex0706"
+		},
+		{
+			"name": "ch07-ex0707",
+			"path": "ch07/ex0707"
+		},
 	],
 	"settings": {
 		"[go]": {
