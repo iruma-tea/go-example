@@ -431,6 +431,22 @@
 			"name": "ch07-ex0707",
 			"path": "ch07/ex0707"
 		},
+		{
+			"name": "ch07-ex0708",
+			"path": "ch07/ex0708"
+		},
+		{
+			"name": "ch07-ex0709",
+			"path": "ch07/ex0709"
+		},
+		{
+			"name": "ch07-ex0710",
+			"path": "ch07/ex0710"
+		},
+		{
+			"name": "ch07-ex0711",
+			"path": "ch07/ex0711"
+		},
 	],
 	"settings": {
 		"[go]": {
@@ -438,7 +454,8 @@
 			"editor.formatOnSave": true,
 			"editor.codeActionsOnSave": {
 				"source.organizeImports": true
-			}
+			},
+			"editor.suggest.snippetsPreventQuickSuggestions": false,
 		},
 		"[python]": {
 			"diffEditor.ignoreTrimWhitespace": false,
