@@ -1,0 +1,144 @@
+{
+	"folders": [
+		{
+			"path": ".",
+		},
+		{
+			"name": "ch03-ex0300",
+			"path": "ch03/ex0300"
+		},
+		{
+			"name": "ch03-ex0301",
+			"path": "ch03/ex0301"
+		},
+		{
+			"name": "ch03-ex0302",
+			"path": "ch03/ex0302"
+		},
+		{
+			"name": "ch03-ex0303",
+			"path": "ch03/ex0303"
+		},
+		{
+			"name": "ch03-ex0304",
+			"path": "ch03/ex0304"
+		},
+		{
+			"name": "ch03-ex0305",
+			"path": "ch03/ex0305"
+		},
+		{
+			"name": "ch03-ex0305x",
+			"path": "ch03/ex0305x"
+		},
+		{
+			"name": "ch03-ex0306",
+			"path": "ch03/ex0306"
+		},
+		{
+			"name": "ch03-ex0306x",
+			"path": "ch03/ex0306x"
+		},
+		{
+			"name": "ch03-ex0307",
+			"path": "ch03/ex0307"
+		},
+		{
+			"name": "ch03-ex0307x",
+			"path": "ch03/ex0307x"
+		},
+		{
+			"name": "ch03-ex0308",
+			"path": "ch03/ex0308"
+		},
+		{
+			"name": "ch03-ex0308x",
+			"path": "ch03/ex0308x"
+		},
+		{
+			"name": "ch03-ex0309",
+			"path": "ch03/ex0309"
+		},
+		{
+			"name": "ch03-ex0309x",
+			"path": "ch03/ex0309x"
+		},
+		{
+			"name": "ch03-ex0310",
+			"path": "ch03/ex0310"
+		},
+		{
+			"name": "ch03-ex0310x",
+			"path": "ch03/ex0310x"
+		},
+		{
+			"name": "ch03-ex0311",
+			"path": "ch03/ex0311"
+		},
+		{
+			"name": "ch03-ex0312",
+			"path": "ch03/ex0312"
+		},
+		{
+			"name": "ch03-ex0313",
+			"path": "ch03/ex0313"
+		},
+		{
+			"name": "ch03-ex0314",
+			"path": "ch03/ex0314"
+		},
+		{
+			"name": "ch03-ex0314x",
+			"path": "ch03/ex0314x"
+		},
+		{
+			"name": "ch03-ex0315",
+			"path": "ch03/ex0315"
+		},
+		{
+			"name": "ch03-ex0316",
+			"path": "ch03/ex0316"
+		},
+		{
+			"name": "ch03-ex0317",
+			"path": "ch03/ex0317"
+		},
+		{
+			"name": "ch03-ex0318",
+			"path": "ch03/ex0318"
+		},
+	],
+	"settings": {
+		"files.exclude": {
+			"**/.git": true,
+			"**/.svn": true,
+			"**/.hg": true,
+			"**/CVS": true,
+			"**/.DS_Store": true,
+			"**/Thumbs.db": true,
+			"ch01": true,
+			"ch02": true,
+			"ch03": false,
+			"ch04": true,
+			"ch05": true,
+			"ch06": true,
+			"ch07": true,
+		},
+		"[go]": {
+			"editor.insertSpaces": false,
+			"editor.formatOnSave": true,
+			"editor.codeActionsOnSave": {
+				"source.organizeImports": true
+			},
+			"editor.suggest.snippetsPreventQuickSuggestions": false,
+		},
+		"[python]": {
+			"diffEditor.ignoreTrimWhitespace": false,
+			"editor.formatOnType": true,
+			"editor.wordBasedSuggestions": false
+		},
+		"[java]": {
+			"editor.suggest.snippetsPreventQuickSuggestions": false
+		}
+	}
+}

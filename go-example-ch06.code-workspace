@@ -1,0 +1,80 @@
+{
+	"folders": [
+		{
+			"path": ".",
+		},
+		{
+			"name": "ch06-ex0600",
+			"path": "ch06/ex0600"
+		},
+		{
+			"name": "ch06-ex0601",
+			"path": "ch06/ex0601"
+		},
+		{
+			"name": "ch06-ex0602",
+			"path": "ch06/ex0602"
+		},
+		{
+			"name": "ch06-ex0603",
+			"path": "ch06/ex0603"
+		},
+		{
+			"name": "ch06-ex0604",
+			"path": "ch06/ex0604"
+		},
+		{
+			"name": "ch06-ex0605",
+			"path": "ch06/ex0605"
+		},
+		{
+			"name": "ch06-ex0606",
+			"path": "ch06/ex0606"
+		},
+		{
+			"name": "ch06-ex0607",
+			"path": "ch06/ex0607"
+		},
+		{
+			"name": "ch06-ex0608",
+			"path": "ch06/ex0608"
+		},
+		{
+			"name": "ch06-ex0609",
+			"path": "ch06/ex0609"
+		},
+	],
+	"settings": {
+		"files.exclude": {
+			"**/.git": true,
+			"**/.svn": true,
+			"**/.hg": true,
+			"**/CVS": true,
+			"**/.DS_Store": true,
+			"**/Thumbs.db": true,
+			"ch01": true,
+			"ch02": true,
+			"ch03": true,
+			"ch04": true,
+			"ch05": true,
+			"ch06": false,
+			"ch07": true,
+		},
+		"[go]": {
+			"editor.insertSpaces": false,
+			"editor.formatOnSave": true,
+			"editor.codeActionsOnSave": {
+				"source.organizeImports": true
+			},
+			"editor.suggest.snippetsPreventQuickSuggestions": false,
+		},
+		"[python]": {
+			"diffEditor.ignoreTrimWhitespace": false,
+			"editor.formatOnType": true,
+			"editor.wordBasedSuggestions": false
+		},
+		"[java]": {
+			"editor.suggest.snippetsPreventQuickSuggestions": false
+		}
+	}
+}

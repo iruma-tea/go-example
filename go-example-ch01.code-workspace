@@ -1,0 +1,56 @@
+{
+	"folders": [
+		{
+			"path": ".",
+		},
+		{
+			"name": "ch01",
+			"path": "ch01/"
+		},
+		{
+			"name": "ch01-hello-world",
+			"path": "ch01/hello-world"
+		},
+		{
+			"name": "ch01-04multifile",
+			"path": "ch01/04multifile"
+		},
+		{
+			"name": "ch01-make",
+			"path": "ch01/make"
+		},
+	],
+	"settings": {
+		"files.exclude": {
+			"**/.git": true,
+			"**/.svn": true,
+			"**/.hg": true,
+			"**/CVS": true,
+			"**/.DS_Store": true,
+			"**/Thumbs.db": true,
+			"ch01": false,
+			"ch02": true,
+			"ch03": true,
+			"ch04": true,
+			"ch05": true,
+			"ch06": true,
+			"ch07": true,
+		},
+		"[go]": {
+			"editor.insertSpaces": false,
+			"editor.formatOnSave": true,
+			"editor.codeActionsOnSave": {
+				"source.organizeImports": true
+			},
+			"editor.suggest.snippetsPreventQuickSuggestions": false,
+		},
+		"[python]": {
+			"diffEditor.ignoreTrimWhitespace": false,
+			"editor.formatOnType": true,
+			"editor.wordBasedSuggestions": false
+		},
+		"[java]": {
+			"editor.suggest.snippetsPreventQuickSuggestions": false
+		}
+	}
+}

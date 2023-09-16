@@ -1,0 +1,112 @@
+{
+	"folders": [
+		{
+			"path": ".",
+		},
+		{
+			"name": "ch05-ex0501",
+			"path": "ch05/ex0501"
+		},
+		{
+			"name": "ch05-ex0502",
+			"path": "ch05/ex0502"
+		},
+		{
+			"name": "ch05-ex0503",
+			"path": "ch05/ex0503"
+		},
+		{
+			"name": "ch05-ex0504",
+			"path": "ch05/ex0504"
+		},
+		{
+			"name": "ch05-ex0505",
+			"path": "ch05/ex0505"
+		},
+		{
+			"name": "ch05-ex0506",
+			"path": "ch05/ex0506"
+		},
+		{
+			"name": "ch05-ex0507",
+			"path": "ch05/ex0507"
+		},
+		{
+			"name": "ch05-ex0508",
+			"path": "ch05/ex0508"
+		},
+		{
+			"name": "ch05-ex0509",
+			"path": "ch05/ex0509"
+		},
+		{
+			"name": "ch05-ex0509b",
+			"path": "ch05/ex0509b"
+		},
+		{
+			"name": "ch05-ex0510",
+			"path": "ch05/ex0510"
+		},
+		{
+			"name": "ch05-ex0511",
+			"path": "ch05/ex0511"
+		},
+		{
+			"name": "ch05-ex0511j",
+			"path": "ch05/ex0511j"
+		},
+		{
+			"name": "ch05-ex0512",
+			"path": "ch05/ex0512"
+		},
+		{
+			"name": "ch05-ex0513",
+			"path": "ch05/ex0513"
+		},
+		{
+			"name": "ch05-ex0514",
+			"path": "ch05/ex0514"
+		},
+		{
+			"name": "ch05-ex0515",
+			"path": "ch05/ex0515"
+		},
+		{
+			"name": "ch05-ex0516",
+			"path": "ch05/ex0516"
+		},
+	],
+	"settings": {
+		"files.exclude": {
+			"**/.git": true,
+			"**/.svn": true,
+			"**/.hg": true,
+			"**/CVS": true,
+			"**/.DS_Store": true,
+			"**/Thumbs.db": true,
+			"ch01": true,
+			"ch02": true,
+			"ch03": true,
+			"ch04": true,
+			"ch05": false,
+			"ch06": true,
+			"ch07": true,
+		},
+		"[go]": {
+			"editor.insertSpaces": false,
+			"editor.formatOnSave": true,
+			"editor.codeActionsOnSave": {
+				"source.organizeImports": true
+			},
+			"editor.suggest.snippetsPreventQuickSuggestions": false,
+		},
+		"[python]": {
+			"diffEditor.ignoreTrimWhitespace": false,
+			"editor.formatOnType": true,
+			"editor.wordBasedSuggestions": false
+		},
+		"[java]": {
+			"editor.suggest.snippetsPreventQuickSuggestions": false
+		}
+	}
+}

@@ -1,0 +1,128 @@
+{
+	"folders": [
+		{
+			"path": ".",
+		},
+		{
+			"name": "ch07-ex0700",
+			"path": "ch07/ex0700"
+		},
+		{
+			"name": "ch07-ex0701",
+			"path": "ch07/ex0701"
+		},
+		{
+			"name": "ch07-ex0702",
+			"path": "ch07/ex0702"
+		},
+		{
+			"name": "ch07-ex0702x",
+			"path": "ch07/ex0702x"
+		},
+		{
+			"name": "ch07-ex0703",
+			"path": "ch07/ex0703"
+		},
+		{
+			"name": "ch07-ex0703x",
+			"path": "ch07/ex0703x"
+		},
+		{
+			"name": "ch07-ex0704",
+			"path": "ch07/ex0704"
+		},
+		{
+			"name": "ch07-ex0705",
+			"path": "ch07/ex0705"
+		},
+		{
+			"name": "ch07-ex0705x",
+			"path": "ch07/ex0705x"
+		},
+		{
+			"name": "ch07-ex0706",
+			"path": "ch07/ex0706"
+		},
+		{
+			"name": "ch07-ex0707",
+			"path": "ch07/ex0707"
+		},
+		{
+			"name": "ch07-ex0708",
+			"path": "ch07/ex0708"
+		},
+		{
+			"name": "ch07-ex0709",
+			"path": "ch07/ex0709"
+		},
+		{
+			"name": "ch07-ex0710",
+			"path": "ch07/ex0710"
+		},
+		{
+			"name": "ch07-ex0711",
+			"path": "ch07/ex0711"
+		},
+		{
+			"name": "ch07-ex0712",
+			"path": "ch07/ex0712"
+		},
+		{
+			"name": "ch07-ex0712b",
+			"path": "ch07/ex0712b"
+		},
+		{
+			"name": "ch07-ex0712c",
+			"path": "ch07/ex0712c"
+		},
+		{
+			"name": "ch07-ex0712d",
+			"path": "ch07/ex0712d"
+		},
+		{
+			"name": "ch07-ex0712e",
+			"path": "ch07/ex0712e"
+		},
+		{
+			"name": "ch07-ex0713",
+			"path": "ch07/ex0713"
+		},
+		{
+			"name": "ch07-ex0713b",
+			"path": "ch07/ex0713b"
+		},
+	],
+	"settings": {
+		"files.exclude": {
+			"**/.git": true,
+			"**/.svn": true,
+			"**/.hg": true,
+			"**/CVS": true,
+			"**/.DS_Store": true,
+			"**/Thumbs.db": true,
+			"ch01": true,
+			"ch02": true,
+			"ch03": true,
+			"ch04": true,
+			"ch05": true,
+			"ch06": true,
+			"ch07": false,
+		},
+		"[go]": {
+			"editor.insertSpaces": false,
+			"editor.formatOnSave": true,
+			"editor.codeActionsOnSave": {
+				"source.organizeImports": true
+			},
+			"editor.suggest.snippetsPreventQuickSuggestions": false,
+		},
+		"[python]": {
+			"diffEditor.ignoreTrimWhitespace": false,
+			"editor.formatOnType": true,
+			"editor.wordBasedSuggestions": false
+		},
+		"[java]": {
+			"editor.suggest.snippetsPreventQuickSuggestions": false
+		}
+	}
+}
