@@ -3,6 +3,14 @@
 		{
 			"path": ".",
 		},
+		{
+			"name": "ch08-ex0801",
+			"path": "ch08/ex0801"
+		},
+		{
+			"name": "ch08-ex0801-e",
+			"path": "ch08/ex0801-e"
+		},
 	],
 	"settings": {
 		"files.exclude": {
