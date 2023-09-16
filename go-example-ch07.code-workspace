@@ -155,6 +155,7 @@
 			"ch05": true,
 			"ch06": true,
 			"ch07": false,
+			"ch08": true,
 		},
 		"[go]": {
 			"editor.insertSpaces": false,

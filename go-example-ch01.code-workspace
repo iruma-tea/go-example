@@ -35,6 +35,7 @@
 			"ch05": true,
 			"ch06": true,
 			"ch07": true,
+			"ch08": true,
 		},
 		"[go]": {
 			"editor.insertSpaces": false,

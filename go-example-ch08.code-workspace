@@ -3,30 +3,6 @@
 		{
 			"path": ".",
 		},
-		{
-			"name": "ch02-ex0201",
-			"path": "ch02/ex0201"
-		},
-		{
-			"name": "ch02-ex0202",
-			"path": "ch02/ex0202"
-		},
-		{
-			"name": "ch02-ex0203",
-			"path": "ch02/ex0203"
-		},
-		{
-			"name": "ch02-ex0204",
-			"path": "ch02/ex0204"
-		},
-		{
-			"name": "ch02-ex0205",
-			"path": "ch02/ex0205"
-		},
-		{
-			"name": "ch02-ex0206",
-			"path": "ch02/ex0206"
-		},
 	],
 	"settings": {
 		"files.exclude": {
@@ -37,13 +13,13 @@
 			"**/.DS_Store": true,
 			"**/Thumbs.db": true,
 			"ch01": true,
-			"ch02": false,
+			"ch02": true,
 			"ch03": true,
 			"ch04": true,
 			"ch05": true,
 			"ch06": true,
 			"ch07": true,
-			"ch08": true,
+			"ch08": false,
 		},
 		"[go]": {
 			"editor.insertSpaces": false,
