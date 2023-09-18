@@ -6,7 +6,11 @@
 		{
 			"name": "package_example",
 			"path": "ch09/package_example"
-		}
+		},
+		{
+			"name": "ex0901",
+			"path": "ch09/ex0901"
+		},
 	],
 	"settings": {
 		"files.exclude": {
