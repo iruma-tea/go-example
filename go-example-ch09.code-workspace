@@ -3,6 +3,10 @@
 		{
 			"path": ".",
 		},
+		{
+			"name": "package_example",
+			"path": "ch09/package_example"
+		}
 	],
 	"settings": {
 		"files.exclude": {
