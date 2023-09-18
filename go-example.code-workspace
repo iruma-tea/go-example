@@ -523,6 +523,62 @@
 			"name": "ch07-ex0720",
 			"path": "ch07/ex0720"
 		},
+		{
+			"name": "ch08-ex0801",
+			"path": "ch08/ex0801"
+		},
+		{
+			"name": "ch08-ex0801-e",
+			"path": "ch08/ex0801-e"
+		},
+		{
+			"name": "ch08-ex0802",
+			"path": "ch08/ex0802"
+		},
+		{
+			"name": "ch08-ex0803",
+			"path": "ch08/ex0803"
+		},
+		{
+			"name": "ch08-ex0804",
+			"path": "ch08/ex0804"
+		},
+		{
+			"name": "ch08-ex0805",
+			"path": "ch08/ex0805"
+		},
+		{
+			"name": "ch08-ex0805b",
+			"path": "ch08/ex0805b"
+		},
+		{
+			"name": "ch08-ex0805c",
+			"path": "ch08/ex0805c"
+		},
+		{
+			"name": "ch08-ex0806",
+			"path": "ch08/ex0806"
+		},
+		{
+			"name": "ch08-ex0806b",
+			"path": "ch08/ex0806b"
+		},
+		{
+			"name": "ch08-ex0807",
+			"path": "ch08/ex0807"
+		},
+		{
+			"name": "ch08-ex0808",
+			"path": "ch08/ex0808"
+		},
+		{
+			"name": "ch08-ex0809",
+			"path": "ch08/ex0809"
+		},
+		{
+			"name": "ch08-ex0810",
+			"path": "ch08/ex0810"
+		},
 	],
 	"settings": {
 		"[go]": {

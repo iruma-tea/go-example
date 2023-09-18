@@ -43,6 +43,22 @@
 			"name": "ch08-ex0806b",
 			"path": "ch08/ex0806b"
 		},
+		{
+			"name": "ch08-ex0807",
+			"path": "ch08/ex0807"
+		},
+		{
+			"name": "ch08-ex0808",
+			"path": "ch08/ex0808"
+		},
+		{
+			"name": "ch08-ex0809",
+			"path": "ch08/ex0809"
+		},
+		{
+			"name": "ch08-ex0810",
+			"path": "ch08/ex0810"
+		},
 	],
 	"settings": {
 		"files.exclude": {
