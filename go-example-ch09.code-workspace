@@ -23,6 +23,10 @@
 			"name": "internal_example",
 			"path": "ch09/internal_example"
 		},
+		{
+			"name": "circular_dependency_example",
+			"path": "ch09/circular_dependency_example"
+		},
 	],
 	"settings": {
 		"files.exclude": {
