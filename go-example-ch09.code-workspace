@@ -15,6 +15,10 @@
 			"name": "godoc_example",
 			"path": "ch09/godoc_example"
 		},
+		{
+			"name": "godoc_example-jpn",
+			"path": "ch09/godoc_example-jpn"
+		},
 	],
 	"settings": {
 		"files.exclude": {
