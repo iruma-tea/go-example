@@ -3,46 +3,6 @@
 		{
 			"path": ".",
 		},
-		{
-			"name": "ch06-ex0600",
-			"path": "ch06/ex0600"
-		},
-		{
-			"name": "ch06-ex0601",
-			"path": "ch06/ex0601"
-		},
-		{
-			"name": "ch06-ex0602",
-			"path": "ch06/ex0602"
-		},
-		{
-			"name": "ch06-ex0603",
-			"path": "ch06/ex0603"
-		},
-		{
-			"name": "ch06-ex0604",
-			"path": "ch06/ex0604"
-		},
-		{
-			"name": "ch06-ex0605",
-			"path": "ch06/ex0605"
-		},
-		{
-			"name": "ch06-ex0606",
-			"path": "ch06/ex0606"
-		},
-		{
-			"name": "ch06-ex0607",
-			"path": "ch06/ex0607"
-		},
-		{
-			"name": "ch06-ex0608",
-			"path": "ch06/ex0608"
-		},
-		{
-			"name": "ch06-ex0609",
-			"path": "ch06/ex0609"
-		},
 	],
 	"settings": {
 		"files.exclude": {
@@ -57,11 +17,11 @@
 			"ch03": true,
 			"ch04": true,
 			"ch05": true,
-			"ch06": false,
+			"ch06": true,
 			"ch07": true,
 			"ch08": true,
 			"ch09": true,
-			"ch10": true,
+			"ch10": false,
 		},
 		"[go]": {
 			"editor.insertSpaces": false,
