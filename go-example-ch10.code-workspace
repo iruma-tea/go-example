@@ -3,6 +3,10 @@
 		{
 			"path": ".",
 		},
+		{
+			"path": "ch10/ex1000",
+			"name": "ex1000"
+		}
 	],
 	"settings": {
 		"files.exclude": {
