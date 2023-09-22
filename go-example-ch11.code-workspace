@@ -3,6 +3,14 @@
 		{
 			"path": ".",
 		},
+		{
+			"path": "ch11/1io/io01",
+			"name": "io01"
+		},
+		{
+			"path": "ch11/1io/io01b",
+			"name": "io01b"
+		},
 	],
 	"settings": {
 		"files.exclude": {
