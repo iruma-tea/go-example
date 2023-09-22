@@ -27,6 +27,26 @@
 			"name": "circular_dependency_example",
 			"path": "ch09/circular_dependency_example"
 		},
+		{
+			"name": "importing-third-party-code",
+			"path": "ch09/importing-third-party-code"
+		},
+		{
+			"name": "region_tax",
+			"path": "ch09/region_tax"
+		},
+		{
+			"name": "region_tax-after",
+			"path": "ch09/region_tax-after"
+		},
+		{
+			"name": "region_tax-after2",
+			"path": "ch09/region_tax-after2"
+		},
+		{
+			"name": "region_tax-after3",
+			"path": "ch09/region_tax-after3"
+		},
 	],
 	"settings": {
 		"files.exclude": {
