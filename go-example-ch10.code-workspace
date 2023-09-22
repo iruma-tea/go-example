@@ -39,6 +39,22 @@
 			"path": "ch10/ex1005d",
 			"name": "ex1005d"
 		},
+		{
+			"path": "ch10/ex1006",
+			"name": "ex1006"
+		},
+		{
+			"path": "ch10/ex1006b",
+			"name": "ex1006b"
+		},
+		{
+			"path": "ch10/ex1007",
+			"name": "ex1007"
+		},
+		{
+			"path": "ch10/ex1007b",
+			"name": "ex1007b"
+		},
 	],
 	"settings": {
 		"files.exclude": {
