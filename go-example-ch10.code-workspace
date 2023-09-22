@@ -55,6 +55,50 @@
 			"path": "ch10/ex1007b",
 			"name": "ex1007b"
 		},
+		{
+			"path": "ch10/ex1008",
+			"name": "ex1008"
+		},
+		{
+			"path": "ch10/ex1008b",
+			"name": "ex1008b"
+		},
+		{
+			"path": "ch10/ex1009",
+			"name": "ex1009"
+		},
+		{
+			"path": "ch10/ex1010",
+			"name": "ex1010"
+		},
+		{
+			"path": "ch10/ex1010.5",
+			"name": "ex1010.5"
+		},
+		{
+			"path": "ch10/ex1011",
+			"name": "ex1011"
+		},
+		{
+			"path": "ch10/ex1012",
+			"name": "ex1012"
+		},
+		{
+			"path": "ch10/ex1013",
+			"name": "ex1013"
+		},
+		{
+			"path": "ch10/ex1014",
+			"name": "ex1014"
+		},
+		{
+			"path": "ch10/ex1015",
+			"name": "ex1015"
+		},
+		{
+			"path": "ch10/ex1016",
+			"name": "ex1016"
+		},
 	],
 	"settings": {
 		"files.exclude": {
