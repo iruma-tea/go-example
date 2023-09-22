@@ -12,6 +12,14 @@
 			"path": "ch09/ex0901"
 		},
 		{
+			"name": "ex0901x",
+			"path": "ch09/ex0901x"
+		},
+		{
+			"name": "ex0902",
+			"path": "ch09/ex0902"
+		},
+		{
 			"name": "godoc_example",
 			"path": "ch09/godoc_example"
 		},
