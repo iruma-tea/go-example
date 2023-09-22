@@ -631,6 +631,102 @@
 			"name": "region_tax-after3",
 			"path": "ch09/region_tax-after3"
 		},
+		{
+			"path": "ch10/ex1000",
+			"name": "ex1000"
+		},
+		{
+			"path": "ch10/ex1001",
+			"name": "ex1001"
+		},
+		{
+			"path": "ch10/ex1002",
+			"name": "ex1002"
+		},
+		{
+			"path": "ch10/ex1003",
+			"name": "ex1003"
+		},
+		{
+			"path": "ch10/ex1004",
+			"name": "ex1004"
+		},
+		{
+			"path": "ch10/ex1005",
+			"name": "ex1005"
+		},
+		{
+			"path": "ch10/ex1005b",
+			"name": "ex1005b"
+		},
+		{
+			"path": "ch10/ex1005c",
+			"name": "ex1005c"
+		},
+		{
+			"path": "ch10/ex1005d",
+			"name": "ex1005d"
+		},
+		{
+			"path": "ch10/ex1006",
+			"name": "ex1006"
+		},
+		{
+			"path": "ch10/ex1006b",
+			"name": "ex1006b"
+		},
+		{
+			"path": "ch10/ex1007",
+			"name": "ex1007"
+		},
+		{
+			"path": "ch10/ex1007b",
+			"name": "ex1007b"
+		},
+		{
+			"path": "ch10/ex1008",
+			"name": "ex1008"
+		},
+		{
+			"path": "ch10/ex1008b",
+			"name": "ex1008b"
+		},
+		{
+			"path": "ch10/ex1009",
+			"name": "ex1009"
+		},
+		{
+			"path": "ch10/ex1010",
+			"name": "ex1010"
+		},
+		{
+			"path": "ch10/ex1010.5",
+			"name": "ex1010.5"
+		},
+		{
+			"path": "ch10/ex1011",
+			"name": "ex1011"
+		},
+		{
+			"path": "ch10/ex1012",
+			"name": "ex1012"
+		},
+		{
+			"path": "ch10/ex1013",
+			"name": "ex1013"
+		},
+		{
+			"path": "ch10/ex1014",
+			"name": "ex1014"
+		},
+		{
+			"path": "ch10/ex1015",
+			"name": "ex1015"
+		},
+		{
+			"path": "ch10/ex1016",
+			"name": "ex1016"
+		},		
 	],
 	"settings": {
 		"[go]": {

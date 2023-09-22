@@ -38,6 +38,7 @@
 			"ch08": true,
 			"ch09": true,
 			"ch10": true,
+			"ch11": true,
 		},
 		"[go]": {
 			"editor.insertSpaces": false,
