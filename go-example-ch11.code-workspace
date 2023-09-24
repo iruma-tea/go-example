@@ -19,6 +19,26 @@
 			"path": "ch11/1io/io02b",
 			"name": "io02b"
 		},
+		{
+			"path": "ch11/2time/time1",
+			"name": "time1"
+		},
+		{
+			"path": "ch11/2time/time1x",
+			"name": "time1x"
+		},
+		{
+			"path": "ch11/2time/time2",
+			"name": "time2"
+		},
+		{
+			"path": "ch11/2time/time2x",
+			"name": "time2x"
+		},
+		{
+			"path": "ch11/2time/time3",
+			"name": "time3"
+		},
 	],
 	"settings": {
 		"files.exclude": {
