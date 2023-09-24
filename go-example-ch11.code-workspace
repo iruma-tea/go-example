@@ -39,6 +39,34 @@
 			"path": "ch11/2time/time3",
 			"name": "time3"
 		},
+		{
+			"path": "ch11/3json/json01",
+			"name": "json01"
+		},
+		{
+			"path": "ch11/3json/json01b",
+			"name": "json01b"
+		},
+		{
+			"path": "ch11/3json/json02",
+			"name": "json02"
+		},
+		{
+			"path": "ch11/3json/json02b",
+			"name": "json02b"
+		},
+		{
+			"path": "ch11/3json/json02c",
+			"name": "json02c"
+		},
+		{
+			"path": "ch11/3json/json03",
+			"name": "json03"
+		},
+		{
+			"path": "ch11/3json/json03x",
+			"name": "json03x"
+		},
 	],
 	"settings": {
 		"files.exclude": {
