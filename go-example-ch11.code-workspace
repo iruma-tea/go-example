@@ -91,6 +91,22 @@
 			"path": "ch11/3json/json06",
 			"name": "json06"
 		},
+		{
+			"path": "ch11/4http/http01",
+			"name": "http01"
+		},
+		{
+			"path": "ch11/4http/http02",
+			"name": "http02"
+		},
+		{
+			"path": "ch11/4http/http03",
+			"name": "http03"
+		},
+		{
+			"path": "ch11/4http/http04",
+			"name": "http04"
+		},
 	],
 	"settings": {
 		"files.exclude": {
