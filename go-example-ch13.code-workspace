@@ -3,6 +3,18 @@
 		{
 			"path": ".",
 		},
+		{
+			"path": "ch13/adder",
+			"name": "adder",
+		},
+		{
+			"path": "ch13/adder2",
+			"name": "adder2",
+		},
+		{
+			"path": "ch13/adder3",
+			"name": "adder3",
+		},
 	],
 	"settings": {
 		"files.exclude": {
