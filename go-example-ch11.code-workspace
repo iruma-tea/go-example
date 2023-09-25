@@ -75,6 +75,22 @@
 			"path": "ch11/3json/json04x",
 			"name": "json04x"
 		},
+		{
+			"path": "ch11/3json/json05",
+			"name": "json05"
+		},
+		{
+			"path": "ch11/3json/json05b",
+			"name": "json05b"
+		},
+		{
+			"path": "ch11/3json/json05c",
+			"name": "json05c"
+		},
+		{
+			"path": "ch11/3json/json06",
+			"name": "json06"
+		},
 	],
 	"settings": {
 		"files.exclude": {
