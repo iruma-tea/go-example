@@ -67,6 +67,14 @@
 			"path": "ch11/3json/json03x",
 			"name": "json03x"
 		},
+		{
+			"path": "ch11/3json/json04",
+			"name": "json04"
+		},
+		{
+			"path": "ch11/3json/json04x",
+			"name": "json04x"
+		},
 	],
 	"settings": {
 		"files.exclude": {
