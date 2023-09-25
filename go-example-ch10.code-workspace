@@ -120,6 +120,7 @@
 			"ch10": false,
 			"ch11": true,
 			"ch12": true,
+			"ch13": true,
 		},
 		"[go]": {
 			"editor.insertSpaces": false,
