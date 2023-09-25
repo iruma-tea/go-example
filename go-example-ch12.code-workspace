@@ -3,6 +3,22 @@
 		{
 			"path": ".",
 		},
+		{
+			"path": "ch12/ex1201",
+			"name": "ex1201"
+		},
+		{
+			"path": "ch12/ex1202",
+			"name": "ex1202"
+		},
+		{
+			"path": "ch12/context_cancel",
+			"name": "context_cancel"
+		},
+		{
+			"path": "ch12/context_values",
+			"name": "context_values"
+		},
 	],
 	"settings": {
 		"files.exclude": {
