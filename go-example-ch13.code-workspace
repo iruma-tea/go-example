@@ -39,6 +39,18 @@
 			"path": "ch13/table4",
 			"name": "table4",
 		},
+		{
+			"path": "ch13/bench",
+			"name": "bench",
+		},
+		{
+			"path": "ch13/bench2",
+			"name": "bench2",
+		},
+		{
+			"path": "ch13/bench3",
+			"name": "bench3",
+		},
 	],
 	"settings": {
 		"files.exclude": {
