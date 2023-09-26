@@ -23,6 +23,10 @@
 			"path": "ch13/cmp2",
 			"name": "cmp2",
 		},
+		{
+			"path": "ch13/table",
+			"name": "table",
+		},
 	],
 	"settings": {
 		"files.exclude": {
