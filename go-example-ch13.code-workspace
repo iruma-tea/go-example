@@ -27,6 +27,18 @@
 			"path": "ch13/table",
 			"name": "table",
 		},
+		{
+			"path": "ch13/table2",
+			"name": "table2",
+		},
+		{
+			"path": "ch13/table3",
+			"name": "table3",
+		},
+		{
+			"path": "ch13/table4",
+			"name": "table4",
+		},
 	],
 	"settings": {
 		"files.exclude": {
@@ -65,6 +77,7 @@
 		},
 		"[java]": {
 			"editor.suggest.snippetsPreventQuickSuggestions": false
-		}
+		},
+		"liveServer.settings.multiRootWorkspaceName": "go-example"
 	}
 }
