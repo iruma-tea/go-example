@@ -15,6 +15,14 @@
 			"path": "ch13/adder3",
 			"name": "adder3",
 		},
+		{
+			"path": "ch13/cmp1",
+			"name": "cmp1",
+		},
+		{
+			"path": "ch13/cmp2",
+			"name": "cmp2",
+		},
 	],
 	"settings": {
 		"files.exclude": {
