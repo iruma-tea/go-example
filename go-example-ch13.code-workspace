@@ -51,6 +51,10 @@
 			"path": "ch13/bench3",
 			"name": "bench3",
 		},
+		{
+			"path": "ch13/solver",
+			"name": "solver",
+		},
 	],
 	"settings": {
 		"files.exclude": {
