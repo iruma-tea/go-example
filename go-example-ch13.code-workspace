@@ -55,6 +55,14 @@
 			"path": "ch13/solver",
 			"name": "solver",
 		},
+		{
+			"path": "ch13/stub",
+			"name": "stub",
+		},
+		{
+			"path": "ch13/stub2",
+			"name": "stub2",
+		},
 	],
 	"settings": {
 		"files.exclude": {
