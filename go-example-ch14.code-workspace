@@ -3,6 +3,30 @@
 		{
 			"path": ".",
 		},
+		{
+			"path": "ch14/ex1400",
+			"name": "ex1400"
+		},
+		{
+			"path": "ch14/ex1401",
+			"name": "ex1401"
+		},
+		{
+			"path": "ch14/ex1401b",
+			"name": "ex1401b"
+		},
+		{
+			"path": "ch14/ex1401c",
+			"name": "ex1401c"
+		},
+		{
+			"path": "ch14/ex1401-mine",
+			"name": "ex1401-mine"
+		},
+		{
+			"path": "ch14/ex1402",
+			"name": "ex1402"
+		},
 	],
 	"settings": {
 		"files.exclude": {
