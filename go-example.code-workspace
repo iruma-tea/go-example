@@ -847,6 +847,82 @@
 			"path": "ch12/context_values",
 			"name": "context_values"
 		},
+		{
+			"path": "ch13/adder",
+			"name": "adder",
+		},
+		{
+			"path": "ch13/adder2",
+			"name": "adder2",
+		},
+		{
+			"path": "ch13/adder3",
+			"name": "adder3",
+		},
+		{
+			"path": "ch13/cmp1",
+			"name": "cmp1",
+		},
+		{
+			"path": "ch13/cmp2",
+			"name": "cmp2",
+		},
+		{
+			"path": "ch13/table",
+			"name": "table",
+		},
+		{
+			"path": "ch13/table2",
+			"name": "table2",
+		},
+		{
+			"path": "ch13/table3",
+			"name": "table3",
+		},
+		{
+			"path": "ch13/table4",
+			"name": "table4",
+		},
+		{
+			"path": "ch13/bench",
+			"name": "bench",
+		},
+		{
+			"path": "ch13/bench2",
+			"name": "bench2",
+		},
+		{
+			"path": "ch13/bench3",
+			"name": "bench3",
+		},
+		{
+			"path": "ch13/solver",
+			"name": "solver",
+		},
+		{
+			"path": "ch13/solver2",
+			"name": "solver2",
+		},
+		{
+			"path": "ch13/solver3",
+			"name": "solver3",
+		},
+		{
+			"path": "ch13/stub",
+			"name": "stub",
+		},
+		{
+			"path": "ch13/stub2",
+			"name": "stub2",
+		},
+		{
+			"path": "ch13/math_server",
+			"name": "math_server",
+		},
+		{
+			"path": "ch13/race",
+			"name": "race",
+		},
 	],
 	"settings": {
 		"[go]": {

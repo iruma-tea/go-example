@@ -3,22 +3,6 @@
 		{
 			"path": ".",
 		},
-		{
-			"name": "ch01",
-			"path": "ch01/"
-		},
-		{
-			"name": "ch01-hello-world",
-			"path": "ch01/hello-world"
-		},
-		{
-			"name": "ch01-04multifile",
-			"path": "ch01/04multifile"
-		},
-		{
-			"name": "ch01-make",
-			"path": "ch01/make"
-		},
 	],
 	"settings": {
 		"files.exclude": {
@@ -28,7 +12,7 @@
 			"**/CVS": true,
 			"**/.DS_Store": true,
 			"**/Thumbs.db": true,
-			"ch01": false,
+			"ch01": true,
 			"ch02": true,
 			"ch03": true,
 			"ch04": true,
@@ -41,7 +25,7 @@
 			"ch11": true,
 			"ch12": true,
 			"ch13": true,
-			"ch14": true,
+			"ch14": false,
 		},
 		"[go]": {
 			"editor.insertSpaces": false,
@@ -58,6 +42,7 @@
 		},
 		"[java]": {
 			"editor.suggest.snippetsPreventQuickSuggestions": false
-		}
+		},
+		"liveServer.settings.multiRootWorkspaceName": "go-example"
 	}
 }
