@@ -1,0 +1,4 @@
+github.com/go-chi/chi v4.0.3+incompatible h1:gakN3pDJnzZN5jqFV2TEdF66rTfKeITyR8qu6ekICEY=
+github.com/go-chi/chi v4.0.3+incompatible/go.mod h1:eB3wogJHnLi3x/kFX2A+IbTBlXxmMeXJVKy9tTv1XzQ=
+github.com/jonbodner/math_server v0.0.0-20200304155356-f64d8ebe758d h1:UZJNACCtgLvb6grotQFG0VlwISQ4okvSn3/DLn1HOWk=
+github.com/jonbodner/math_server v0.0.0-20200304155356-f64d8ebe758d/go.mod h1:2z6961VR5JPcHAUyFYnVZPJRZz8WKIkJZzkV/lFxjCk=

@@ -71,6 +71,10 @@
 			"path": "ch13/stub2",
 			"name": "stub2",
 		},
+		{
+			"path": "ch13/math_server",
+			"name": "math_server",
+		},
 	],
 	"settings": {
 		"files.exclude": {
