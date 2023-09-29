@@ -56,6 +56,14 @@
 			"name": "solver",
 		},
 		{
+			"path": "ch13/solver2",
+			"name": "solver2",
+		},
+		{
+			"path": "ch13/solver3",
+			"name": "solver3",
+		},
+		{
 			"path": "ch13/stub",
 			"name": "stub",
 		},
