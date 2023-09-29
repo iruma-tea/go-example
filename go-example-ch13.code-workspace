@@ -75,6 +75,10 @@
 			"path": "ch13/math_server",
 			"name": "math_server",
 		},
+		{
+			"path": "ch13/race",
+			"name": "race",
+		},
 	],
 	"settings": {
 		"files.exclude": {
