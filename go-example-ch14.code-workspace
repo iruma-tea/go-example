@@ -27,6 +27,46 @@
 			"path": "ch14/ex1402",
 			"name": "ex1402"
 		},
+		{
+			"path": "ch14/ex1403",
+			"name": "ex1403"
+		},
+		{
+			"path": "ch14/ex1404",
+			"name": "ex1404"
+		},
+		{
+			"path": "ch14/ex1404-mine",
+			"name": "ex1404-mine"
+		},
+		{
+			"path": "ch14/ex1405",
+			"name": "ex1405"
+		},
+		{
+			"path": "ch14/ex1405b",
+			"name": "ex1405b"
+		},
+		{
+			"path": "ch14/ex1406",
+			"name": "ex1406"
+		},
+		{
+			"path": "ch14/ex1407",
+			"name": "ex1407"
+		},
+		{
+			"path": "ch14/ex1407b",
+			"name": "ex1407b"
+		},
+		{
+			"path": "ch14/ex1408",
+			"name": "ex1408"
+		},
+		{
+			"path": "ch14/ex1408b",
+			"name": "ex1408b"
+		},
 	],
 	"settings": {
 		"files.exclude": {
