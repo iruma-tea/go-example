@@ -67,6 +67,30 @@
 			"path": "ch14/ex1408b",
 			"name": "ex1408b"
 		},
+		{
+			"path": "ch14/ex1409",
+			"name": "ex1409"
+		},
+		{
+			"path": "ch14/ex1409b",
+			"name": "ex1409b"
+		},
+		{
+			"path": "ch14/ex1410",
+			"name": "ex1410"
+		},
+		{
+			"path": "ch14/reflection_example",
+			"name": "reflection_example"
+		},
+		{
+			"path": "ch14/ex1411",
+			"name": "ex1411"
+		},
+		{
+			"path": "ch14/ex1412",
+			"name": "ex1412"
+		},
 	],
 	"settings": {
 		"files.exclude": {
