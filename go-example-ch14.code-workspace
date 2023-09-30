@@ -95,6 +95,10 @@
 			"path": "ch14/ex1412",
 			"name": "ex1412"
 		},
+		{
+			"path": "ch14/cgo_examples",
+			"name": "cgo_examples"
+		},
 	],
 	"settings": {
 		"files.exclude": {
