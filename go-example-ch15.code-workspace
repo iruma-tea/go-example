@@ -19,6 +19,14 @@
 			"path": "ch15/ex1502-mine",
 			"name": "ex1502-mine"
 		},
+		{
+			"path": "ch15/ex1503",
+			"name": "ex1503",
+		},
+		{
+			"path": "ch15/ex1503b",
+			"name": "ex1503b",
+		},
 	],
 	"settings": {
 		"files.exclude": {
