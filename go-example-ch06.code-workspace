@@ -66,6 +66,7 @@
 			"ch12": true,
 			"ch13": true,
 			"ch14": true,
+			"ch15": true,
 		},
 		"[go]": {
 			"editor.insertSpaces": false,

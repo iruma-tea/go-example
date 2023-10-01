@@ -923,6 +923,102 @@
 			"path": "ch13/race",
 			"name": "race",
 		},
+		{
+			"path": "ch14/ex1400",
+			"name": "ex1400"
+		},
+		{
+			"path": "ch14/ex1401",
+			"name": "ex1401"
+		},
+		{
+			"path": "ch14/ex1401b",
+			"name": "ex1401b"
+		},
+		{
+			"path": "ch14/ex1401c",
+			"name": "ex1401c"
+		},
+		{
+			"path": "ch14/ex1401-mine",
+			"name": "ex1401-mine"
+		},
+		{
+			"path": "ch14/ex1402",
+			"name": "ex1402"
+		},
+		{
+			"path": "ch14/ex1403",
+			"name": "ex1403"
+		},
+		{
+			"path": "ch14/ex1404",
+			"name": "ex1404"
+		},
+		{
+			"path": "ch14/ex1404-mine",
+			"name": "ex1404-mine"
+		},
+		{
+			"path": "ch14/ex1405",
+			"name": "ex1405"
+		},
+		{
+			"path": "ch14/ex1405b",
+			"name": "ex1405b"
+		},
+		{
+			"path": "ch14/ex1406",
+			"name": "ex1406"
+		},
+		{
+			"path": "ch14/ex1407",
+			"name": "ex1407"
+		},
+		{
+			"path": "ch14/ex1407b",
+			"name": "ex1407b"
+		},
+		{
+			"path": "ch14/ex1408",
+			"name": "ex1408"
+		},
+		{
+			"path": "ch14/ex1408b",
+			"name": "ex1408b"
+		},
+		{
+			"path": "ch14/ex1409",
+			"name": "ex1409"
+		},
+		{
+			"path": "ch14/ex1409b",
+			"name": "ex1409b"
+		},
+		{
+			"path": "ch14/ex1410",
+			"name": "ex1410"
+		},
+		{
+			"path": "ch14/reflection_example",
+			"name": "reflection_example"
+		},
+		{
+			"path": "ch14/unsafe_examples",
+			"name": "unsafe_examples"
+		},
+		{
+			"path": "ch14/ex1411",
+			"name": "ex1411"
+		},
+		{
+			"path": "ch14/ex1412",
+			"name": "ex1412"
+		},
+		{
+			"path": "ch14/cgo_examples",
+			"name": "cgo_examples"
+		},
 	],
 	"settings": {
 		"[go]": {
