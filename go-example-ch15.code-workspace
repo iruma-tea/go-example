@@ -27,6 +27,18 @@
 			"path": "ch15/ex1503b",
 			"name": "ex1503b",
 		},
+		{
+			"path": "ch15/ex1504",
+			"name": "ex1504",
+		},
+		{
+			"path": "ch15/ex1504b",
+			"name": "ex1504b",
+		},
+		{
+			"path": "ch15/ex1505",
+			"name": "ex1505",
+		},
 	],
 	"settings": {
 		"files.exclude": {
