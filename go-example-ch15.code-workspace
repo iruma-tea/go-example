@@ -39,6 +39,42 @@
 			"path": "ch15/ex1505",
 			"name": "ex1505",
 		},
+		{
+			"path": "ch15/ex1506",
+			"name": "ex1506",
+		},
+		{
+			"path": "ch15/ex1506b",
+			"name": "ex1506b",
+		},
+		{
+			"path": "ch15/ex1506c",
+			"name": "ex1506c",
+		},
+		{
+			"path": "ch15/ex1506d",
+			"name": "ex1506d",
+		},
+		{
+			"path": "ch15/ex1507",
+			"name": "ex1507",
+		},
+		{
+			"path": "ch15/ex1508",
+			"name": "ex1508",
+		},
+		{
+			"path": "ch15/ex1509",
+			"name": "ex1509",
+		},
+		{
+			"path": "ch15/ex1509b",
+			"name": "ex1509b",
+		},
+		{
+			"path": "ch15/ex1510",
+			"name": "ex1510",
+		},
 	],
 	"settings": {
 		"files.exclude": {
